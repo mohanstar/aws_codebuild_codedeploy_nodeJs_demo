@@ -1,3 +1,4 @@
+\\pipeline jenkins script
 pipeline {
    agent any
    environment {
